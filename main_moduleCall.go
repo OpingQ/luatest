@@ -22,7 +22,7 @@ print(glargs)
 -- m.gargs = "7797sdsd" 變成只讀後該變數不能被賦值
 `
 
-func moduleCall2(){
+func moduleCall(){
 	fmt.Println("01 Moudle------------")
 	moduleCall201()
 	fmt.Println("02 Moudle------------")
